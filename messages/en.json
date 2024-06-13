@@ -1,5 +1,15 @@
 {
+  "General": {
+    "languages": "Languages"
+  },
+  "Locales": {
+    "en": "English",
+    "pt-BR": "Português do Brasil"
+  },
   "Index": {
     "title": "Hello world!"
+  },
+  "Ravendawn": {
+    "title": "Ravendawn - English"
   }
 }
